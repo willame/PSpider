@@ -1,4 +1,4 @@
-原作者的知乎专栏传送门：[波尔波尔转](https://zhuanlan.zhihu.com/p/24035574)
+原作者的知乎专栏传送门：[波尔波尔转](https://zhuanlan.zhihu.com/pythoner)
 
 [单机30分钟抓取豆瓣电影7万+数据：论爬虫策略的重要性](https://zhuanlan.zhihu.com/p/24035574)
 
